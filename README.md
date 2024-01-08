@@ -37,7 +37,7 @@ If you have proposed extensions to this codebase, feel free to do a pull request
 
 ## License
 * [MIT license](https://opensource.org/license/mit/)
-* Copyright 2023 © [Fabian Akkerman](https://people.utwente.nl/f.r.akkerman), [Peter Dieter](https://en.wiwi.uni-paderborn.de/dep3/schryen/team/dieter), [Martijn Mes](https://www.utwente.nl/en/bms/iebis/staff/mes/), [Guido Schryen](https://en.wiwi.uni-paderborn.de/dep3/schryen/team/schryen)
+* Copyright 2023 © [Peter Dieter](https://en.wiwi.uni-paderborn.de/dep3/schryen/team/dieter), [Fabian Akkerman](https://people.utwente.nl/f.r.akkerman), [Martijn Mes](https://www.utwente.nl/en/bms/iebis/staff/mes/), [Guido Schryen](https://en.wiwi.uni-paderborn.de/dep3/schryen/team/schryen)
 
 ## Bibliography
 
