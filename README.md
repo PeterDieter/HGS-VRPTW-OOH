@@ -1,5 +1,5 @@
 # HGS VRPTW-OOH
-This project includes a state-of-the-art algorithm for the "Vehicle routing with private and shared delivery locations" as coined by Mancini & Gansterer (2021). In the problem, the VRPTW is extended by the option of out-of-home (OOH) deliveries. Our algorithm is based upon the HGS for the VRPTW developed by Kool et al. (2022) which is an extension of the HGS-CVRP developed by Vidal (2022).
+This project includes a state-of-the-art heuristic for the "Vehicle routing with private and shared delivery locations" as coined by Mancini & Gansterer (2021). In the problem, the VRPTW is extended by the option of out-of-home (OOH) deliveries. Our algorithm is based upon the HGS for the VRPTW developed by Kool et al. (2022) which is an extension of the HGS-CVRP developed by Vidal (2022).
 
 Our extension is explained in the following paper:
 
