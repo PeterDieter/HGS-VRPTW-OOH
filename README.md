@@ -1,5 +1,10 @@
 # HGS VRPTW-OOH
-This project includes a state-of-the-art heuristic for the "Vehicle routing with private and shared delivery locations" as coined by Mancini & Gansterer (2021). In the problem, the VRPTW is extended by the option of out-of-home (OOH) deliveries. Our algorithm is based upon the HGS for the VRPTW developed by Kool et al. (2022) which is an extension of the HGS-CVRP developed by Vidal (2022).
+This project includes a state-of-the-art heuristic for the "Vehicle routing with private and shared delivery locations" as coined by Mancini & Gansterer (2021). In the problem, the VRPTW is extended by the option of out-of-home (OOH) deliveries. The problem is visualized in the following image (as given in the paper of Mancini & Gansterer (2021)), where AHD stands for attended home delivery and SDL stands for shared delivery locations (also called OOH locations). Next to the routing of customers, we need to decide which customers to serve through an OOH location and which customers to serve at home.
+
+![Example Image](image.png)
+
+
+Our algorithm is based on the HGS for the VRPTW developed by Kool et al. (2022), an extension of the HGS-CVRP developed by Vidal (2022).
 
 Our extension is explained in the following paper:
 
@@ -16,9 +21,9 @@ When using the code or data in this repo, please cite the following work:
 ```
 
 
-## To the make the code work
+## To make the code work
 
-We use `make` to create an executable. To create this executable run:
+To create the executable run:
 
 ```
 cd source
